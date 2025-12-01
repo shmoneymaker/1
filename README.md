@@ -9,4 +9,5 @@ print("hello world")
 # мое первое консольное окно
 
 ### Визуал
-![img1](<img width="326" height="277" alt="image" src="https://github.com/user-attachments/assets/0acd76d0-719d-4c29-b266-a39a1355f7c4" />)
+![img1](![Безымянный](https://github.com/user-attachments/assets/c0e08ef8-70b9-40bd-a46f-a2035abe81c1)
+
